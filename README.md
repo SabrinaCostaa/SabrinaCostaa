@@ -43,17 +43,13 @@ Atualmente estou aprofundando meus estudos em:
 
 ## 🚀 Projetos em destaque
 
-### 🔬 [Classificação de estágios da Doença de Alzheimer (KNN)](link)
-> Projeto de **aprendizado de máquina** utilizando o dataset **OASIS-1** para classificar estágios clínicos da doença.  
-Inclui pré-processamento de dados, codificação one-hot, padronização, seleção de hiperparâmetros e relatório de desempenho.
+### 🤖 [Robô Seguidor de Linha Autônomo com Aprendizado por Reforço](https://github.com/SabrinaCostaa/IC-Robo-Seguidor-de-Linha-Autonomo-com-Aprendizado-por-Reforco)
+> Projeto de **Iniciação Científica** voltado ao desenvolvimento de um **robô autônomo** capaz de seguir uma linha utilizando **Aprendizado por Reforço (Reinforcement Learning)**.  
+O robô é modelado como um **Processo de Decisão de Markov (MDP)**, aprendendo políticas de controle ótimas que maximizam desempenho e estabilidade em tempo real.  
+A pesquisa compara o método de RL a **controladores clássicos** (Limiar e PID), validando o modelo em **hardware embarcado de baixo custo** (ESP32) com sensores infravermelhos e motores DC controlados via PWM.
 
-### ⚡ [Conversor Texto-Morse em STM32](link)
-> Implementação em **C** de um conversor **texto → código Morse** via **USB CDC**, utilizando microcontrolador **STM32**.  
-Recebe texto via PC, converte em tempo real e envia a resposta pela comunicação serial USB.
-
-### 🧲 [Campo Magnético de Bobinas – Experimentos e Simulação](link)
-> Experimentos com **bobinas de Helmholtz e anti-Helmholtz**, medindo e comparando campos magnéticos teóricos e experimentais.  
-Análise e visualização realizadas em **Python**, com gráficos e comparação de resultados.
+### 💻 [Kit de Desenvolvimento STM32F103xx Compatível com Arduino Nano](https://github.com/SabrinaCostaa/Kit-de-Desenvolvimento-STM32F103xx-Compativel-com-Arduino-Nano)
+Projeto de Sistemas Embarcados focado no desenvolvimento do projeto lógico e esquema elétrico de uma placa de microcontrolador baseada na arquitetura ARM Cortex-M3 (STM32F103xx), com total compatibilidade dimensional e de pinagem com a plataforma Arduino Nano. O kit integra subsistemas avançados como o gerenciamento de clock duplo de precisão (HSE/LSE), múltiplas fontes de alimentação com regulação linear (7-15V, 5V, 3.3V) e uma interface USB full-speed nativa para comunicação serial e DFU (Device Firmware Update), substituindo conversores externos. O design valida a viabilidade de hardware de alto desempenho em um formato compacto e de baixo custo, mantendo a portabilidade e a facilidade de uso do ecossistema Arduino.
 
 ---
 
