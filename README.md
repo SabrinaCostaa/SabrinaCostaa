@@ -68,6 +68,7 @@ Busco oportunidades que me permitam **aprender continuamente**, colaborar em pro
 
 📧 **E-mail:** [seuemail@exemplo.com](mailto:sfcosta27@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/sabrina-ferreira-costa-231175282/))
+
 📚 **Lattes:** [Currículo Lattes]( http://lattes.cnpq.br/3624453207324212)
 
 ---
