@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a **Sabrina Costa**
 
-🎓 Estudante de **Engenharia Elétrica** com interesse em **hardware, robótica e inteligência artificial**.  
+🎓 Estudante de **Engenharia da Computação na Universidade Federal de Uberlândia (UFU)** com interesse em **hardware, robótica e inteligência artificial**.  
 Sou apaixonada por integrar **eletrônica, programação e ciência de dados**, transformando ideias em soluções reais.
 
 ---
@@ -9,9 +9,9 @@ Sou apaixonada por integrar **eletrônica, programação e ciência de dados**, 
 
 💡 Tenho experiência prática em:
 - **Sistemas embarcados**: desenvolvimento em **C** com **STM32CubeIDE**, comunicação USB CDC e protocolos seriais.  
-- **Projetos de hardware**: montagem e análise de **circuitos com transistores**, medições experimentais e projeto básico de **PCBs**.  
+- **Projetos de hardware**: montagem e análise de **circuitos**, medições experimentais e projeto de **PCBs**.  
 - **Robótica e automação**: interesse em controle, integração de sensores e atuadores.  
-- **Machine Learning e IA**: aplicação de algoritmos supervisionados (como KNN) para **classificação de dados biomédicos**.  
+- **Machine Learning e IA**: aplicação de algoritmos supervisionados para **classificação de dados**.  
 
 Atualmente estou aprofundando meus estudos em:
 - **Python** (pandas, scikit-learn, matplotlib)  
@@ -59,7 +59,7 @@ Análise e visualização realizadas em **Python**, com gráficos e comparação
 
 ## 🧩 O que me motiva
 
-Sou movida pela curiosidade em entender **como as coisas funcionam por dentro** — desde o comportamento de um transistor até a tomada de decisão de um modelo de IA.  
+Sou movida pela curiosidade em entender **como as coisas funcionam** — desde o comportamento de um transistor até a tomada de decisão de um modelo de IA.  
 Busco oportunidades que me permitam **aprender continuamente**, colaborar em projetos interdisciplinares e aplicar tecnologia para **resolver problemas reais**.
 
 ---
@@ -73,9 +73,8 @@ Busco oportunidades que me permitam **aprender continuamente**, colaborar em pro
 
 ## 📫 Contato
 
-📧 **E-mail:** [seuemail@exemplo.com](mailto:seuemail@exemplo.com)  
-🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-📁 **Portfólio / Currículo:** (link opcional)
+📧 **E-mail:** [seuemail@exemplo.com](mailto:sfcosta27@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/sabrina-ferreira-costa-231175282/))
 
 ---
 
