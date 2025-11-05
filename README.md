@@ -9,11 +9,17 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-14354C?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
- 
+![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight)
+
+![Robotics](https://img.shields.io/badge/Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2C3E50?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB%20Design-006400?style=for-the-badge&logo=kicad&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-00599C?style=for-the-badge&logo=arduino&logoColor=white)
+
 ### Redes Sociais:
  
 <div> 
