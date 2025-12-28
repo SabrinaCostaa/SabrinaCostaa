@@ -1,8 +1,7 @@
 # 👋 Olá! Eu sou a **Sabrina Costa**
 
-🎓 Estudante de **Engenharia da Computação na Universidade Federal de Uberlândia (UFU)** com interesse em **software, hardware, robótica e inteligência artificial**.  
-Sou apaixonada por integrar **eletrônica, programação e ciência de dados**, transformando ideias em soluções reais e impactando o mundo!
-    Integrante e pesquisadora do GIIA - Grupo Interdisciplinar de Inteligência Artificial, grupo de pesquisa e extensão em IA, da Faculdade de Engenharia Elétrica - UFU. 
+🎓 Estudante de **Engenharia da Computação na Universidade Federal de Uberlândia (UFU)** com interesse em **software, hardware, robótica e inteligência artificial**. 
+Sou apaixonada por integrar **eletrônica, programação e ciência de dados**, transformando ideias em soluções reais e impactando o mundo. Integrante e pesquisadora do GIIA - Grupo Interdisciplinar de Inteligência Artificial, grupo de pesquisa e extensão em IA, da Faculdade de Engenharia Elétrica - UFU. 
 
 ---
 
@@ -69,6 +68,7 @@ Busco oportunidades que me permitam **aprender continuamente**, colaborar em pro
 
 📧 **E-mail:** [sfcosta27@gmail.com](mailto:sfcosta27@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/sabrina-ferreira-costa](https://www.linkedin.com/in/sabrina-ferreira-costa-231175282/)
+
 📚 **Lattes:** [Currículo Lattes]( http://lattes.cnpq.br/3624453207324212)
 
 ---
