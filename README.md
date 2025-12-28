@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou a **Sabrina Costa**
 
-🎓 Estudante de **Engenharia da Computação na Universidade Federal de Uberlândia (UFU)** com interesse em **hardware, robótica e inteligência artificial**.  
-Sou apaixonada por integrar **eletrônica, programação e ciência de dados**, transformando ideias em soluções reais.
+🎓 Estudante de **Engenharia da Computação na Universidade Federal de Uberlândia (UFU)** com interesse em **software, hardware, robótica e inteligência artificial**.  
+Sou apaixonada por integrar **eletrônica, programação e ciência de dados**, transformando ideias em soluções reais e impactando o mundo!
 
 ---
 
@@ -11,12 +11,19 @@ Sou apaixonada por integrar **eletrônica, programação e ciência de dados**, 
 - **Sistemas embarcados**: desenvolvimento em **C** com **STM32CubeIDE**, comunicação USB CDC e protocolos seriais.  
 - **Projetos de hardware**: montagem e análise de **circuitos**, medições experimentais e projeto de **PCBs**.  
 - **Robótica e automação**: interesse em controle, integração de sensores e atuadores.  
-- **Machine Learning e IA**: aplicação de algoritmos supervisionados para **classificação de dados**.  
+- **Machine Learning e IA**: aplicação de algoritmos para **classificação de dados**. 
 
 Atualmente estou aprofundando meus estudos em:
 - **Python** (pandas, scikit-learn, matplotlib)  
-- **C / C#** (aplicações embarcadas e desktop)  
-- **Integração hardware-software e visão computacional**
+- **C / C#** (programação de microcontroladores)  
+- **IA: discussões sobre ética e aplicações**
+
+Minhas disciplinas desse semestre:
+- **Computação Gráfica** (C#, Unity)
+- **Arquitetura de Software Aplicada** (Python, Docker, RabbitMQ)
+- **Tecnologia Web Mobile** (React.js, Typescript)
+- **Desenvolvimento de Hardware e Firmware para IoT** (C, KiCad)
+- **Programação Lógica e Inteligência Artificial** (Prolog, Python)
 
 ---
 
@@ -52,8 +59,8 @@ A pesquisa compara o método de RL a **controladores clássicos** (Limiar e PID)
 
 ## 🧩 O que me motiva
 
-Sou movida pela curiosidade em entender **como as coisas funcionam** — desde o comportamento de um transistor até a tomada de decisão de um modelo de IA.  
-Busco oportunidades que me permitam **aprender continuamente**, colaborar em projetos interdisciplinares e aplicar tecnologia para **resolver problemas reais**.
+Sou movida pela curiosidade em entender **como as coisas funcionam**, desde o comportamento de um transistor até a tomada de decisão de um modelo de IA.  
+Busco oportunidades que me permitam **aprender continuamente**, colaborar em projetos interdisciplinares, aplicar tecnologia para **resolver problemas reais**, além de discutir as implicações da aplicação de tecnologias em diversos contextos. 
 
 ---
 
@@ -67,7 +74,7 @@ Busco oportunidades que me permitam **aprender continuamente**, colaborar em pro
 ## 📫 Contato e Links Externos
 
 📧 **E-mail:** [sfcosta27@gmail.com](mailto:sfcosta27@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/sabrina-ferreira-costa-231175282/))
+🔗 **LinkedIn:** [linkedin.com/in/sabrina-ferreira-costa](https://www.linkedin.com/in/sabrina-ferreira-costa-231175282/)
 📚 **Lattes:** [Currículo Lattes]( http://lattes.cnpq.br/3624453207324212)
 
 ---
