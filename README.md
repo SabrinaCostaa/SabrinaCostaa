@@ -2,6 +2,7 @@
 
 🎓 Estudante de **Engenharia da Computação na Universidade Federal de Uberlândia (UFU)** com interesse em **software, hardware, robótica e inteligência artificial**.  
 Sou apaixonada por integrar **eletrônica, programação e ciência de dados**, transformando ideias em soluções reais e impactando o mundo!
+    Integrante e pesquisadora do GIIA - Grupo Interdisciplinar de Inteligência Artificial, grupo de pesquisa e extensão em IA, da Faculdade de Engenharia Elétrica - UFU. 
 
 ---
 
@@ -61,13 +62,6 @@ A pesquisa compara o método de RL a **controladores clássicos** (Limiar e PID)
 
 Sou movida pela curiosidade em entender **como as coisas funcionam**, desde o comportamento de um transistor até a tomada de decisão de um modelo de IA.  
 Busco oportunidades que me permitam **aprender continuamente**, colaborar em projetos interdisciplinares, aplicar tecnologia para **resolver problemas reais**, além de discutir as implicações da aplicação de tecnologias em diversos contextos. 
-
----
-
-## 📊 Estatísticas do GitHub
-
-![Sabrina's GitHub stats](https://github-readme-stats.vercel.app/api?username=SabrinaCostaa&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SabrinaCostaa&layout=compact&theme=tokyonight)
 
 ---
 
