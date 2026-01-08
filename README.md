@@ -14,9 +14,10 @@ Sou apaixonada por integrar **eletrônica, programação e ciência de dados**, 
 - **Machine Learning e IA**: aplicação de algoritmos para **classificação de dados**. 
 
 Atualmente estou aprofundando meus estudos em:
-- **Python** (pandas, scikit-learn, matplotlib)  
-- **C / C#** (programação de microcontroladores)  
+- **Python**  
+- **C** (programação de microcontroladores)  
 - **IA: discussões sobre ética e aplicações**
+- **Desenvolvimento Web Full Stack:** React.js e Node.js
 
 Minhas disciplinas desse semestre:
 - **Computação Gráfica** (C#, Unity)
