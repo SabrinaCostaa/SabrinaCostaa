@@ -47,10 +47,14 @@ Minhas disciplinas desse semestre:
 
 ## 🚀 Projetos em destaque
 
-### 🤖 [Robô Seguidor de Linha Autônomo com Aprendizado por Reforço](https://github.com/SabrinaCostaa/IC-Robo-Seguidor-de-Linha-Autonomo-com-Aprendizado-por-Reforco)
+<! -- - ### 🤖 [Robô Seguidor de Linha Autônomo com Aprendizado por Reforço](https://github.com/SabrinaCostaa/IC-Robo-Seguidor-de-Linha-Autonomo-com-Aprendizado-por-Reforco)
 > Projeto de **Iniciação Científica** voltado ao desenvolvimento de um **robô autônomo** capaz de seguir uma linha utilizando **Aprendizado por Reforço (Reinforcement Learning)**.  
 O robô é modelado como um **Processo de Decisão de Markov (MDP)**, aprendendo políticas de controle ótimas que maximizam desempenho e estabilidade em tempo real.  
-A pesquisa compara o método de RL a **controladores clássicos** (Limiar e PID), validando o modelo em **hardware embarcado de baixo custo** (ESP32) com sensores infravermelhos e motores DC controlados via PWM.
+A pesquisa compara o método de RL a **controladores clássicos** (Limiar e PID), validando o modelo em **hardware embarcado de baixo custo** (ESP32) com sensores infravermelhos e motores DC controlados via PWM. -->
+
+### [To-Do List in React](https://github.com/SabrinaCostaa/ToDoListReactVite)
+> Este projeto é uma aplicação web de Lista de Tarefas (To-Do List) desenvolvida com React e Vite, com foco na organização de atividades pessoais, acadêmicas e profissionais de forma simples e eficiente.
+A aplicação permite que os usuários criem, visualizem, pesquisem, filtrem, ordenem, concluam e excluam tarefas, além de categorizá-las por contexto (como Trabalho, Estudo e Pessoal), oferecendo uma experiência de uso limpa e intuitiva.
 
 ### 💻 [Kit de Desenvolvimento STM32F103xx Compatível com Arduino Nano](https://github.com/SabrinaCostaa/Kit-de-Desenvolvimento-STM32F103xx-Compativel-com-Arduino-Nano)
 > Projeto de Sistemas Embarcados focado no desenvolvimento do projeto lógico e esquema elétrico de uma placa de microcontrolador baseada na arquitetura ARM Cortex-M3 (STM32F103xx), com total compatibilidade dimensional e de pinagem com a plataforma Arduino Nano. O kit integra subsistemas avançados como o gerenciamento de clock duplo de precisão (HSE/LSE), múltiplas fontes de alimentação com regulação linear (7-15V, 5V, 3.3V) e uma interface USB full-speed nativa para comunicação serial e DFU (Device Firmware Update), substituindo conversores externos. O design valida a viabilidade de hardware de alto desempenho em um formato compacto e de baixo custo, mantendo a portabilidade e a facilidade de uso do ecossistema Arduino.
