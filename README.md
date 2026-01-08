@@ -47,7 +47,7 @@ Minhas disciplinas desse semestre:
 
 ## 🚀 Projetos em destaque
 
-<! -- - ### 🤖 [Robô Seguidor de Linha Autônomo com Aprendizado por Reforço](https://github.com/SabrinaCostaa/IC-Robo-Seguidor-de-Linha-Autonomo-com-Aprendizado-por-Reforco)
+<!-- - ### 🤖 [Robô Seguidor de Linha Autônomo com Aprendizado por Reforço](https://github.com/SabrinaCostaa/IC-Robo-Seguidor-de-Linha-Autonomo-com-Aprendizado-por-Reforco)
 > Projeto de **Iniciação Científica** voltado ao desenvolvimento de um **robô autônomo** capaz de seguir uma linha utilizando **Aprendizado por Reforço (Reinforcement Learning)**.  
 O robô é modelado como um **Processo de Decisão de Markov (MDP)**, aprendendo políticas de controle ótimas que maximizam desempenho e estabilidade em tempo real.  
 A pesquisa compara o método de RL a **controladores clássicos** (Limiar e PID), validando o modelo em **hardware embarcado de baixo custo** (ESP32) com sensores infravermelhos e motores DC controlados via PWM. -->
